@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/Anthony17DEV">
   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=FelipeValve&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
-  <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeValve&layout=compact&langs_count=16&theme=dark"/>
+  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeValve&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
