@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/FelipeValve">
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=FelipeValve&show_icons=true&theme=dark&include_all_comits=false&count_private=true"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeValve&layout=compact&langs_count=16&theme=dark"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=FelipeValve&show_icons=true&theme=dark&include_all_comits=false&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeValve&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
