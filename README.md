@@ -2,10 +2,20 @@
 
 <div>
   <a href="https://github.com/FelipeValve">
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=FelipeValve&show_icons=true&theme=dark&include_all_comits=false&count_private=true"/>
-  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeValve&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=FelipeValve&show_icons=true&theme=dark&include_all_comits=false&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeValve&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Python" height="30" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Felipe-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Felipe-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
+
+##  
+<div>
+   <a href="https://www.linkedin.com/in/felipe-de-paiva-vale-831445253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
+  
