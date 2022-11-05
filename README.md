@@ -1,7 +1,7 @@
 ## Olá me chamo Felipe Vale!
--conhecimento em python\n
--iniciante em frontend\n
--atualmente estudando Javascript, html e css\n
+- conhecimento em python
+- iniciante em frontend
+- atualmente estudando Javascript, html e css
 
 <div>
   <a href="https://github.com/FelipeValve">
