@@ -1,7 +1,7 @@
 ## Olá me chamo Felipe Vale!
 - conhecimento em python
 - iniciante em frontend
-- atualmente estudando Javascript, html e css
+- atualmente trabalhando com desenvolvimento de bots no discord
 
 <div>
   <a href="https://github.com/FelipePaivaVale">
