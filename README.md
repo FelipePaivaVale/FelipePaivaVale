@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/FelipePaivaVale">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=FelipePaivaVale&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePaivaVale&layout=compact&langs_count=16&theme=dark"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=FelipePaivaVale&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
 </div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
